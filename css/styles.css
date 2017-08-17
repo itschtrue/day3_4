@@ -1,0 +1,31 @@
+.hero{
+  height:500px;
+  background-color: black;
+}
+.bg-black-content-min{
+  background-color:black;
+  height:28px;
+}
+
+.margin-l{
+  margin-left:20px;
+}
+
+.margin-lr{
+  margin: 0px 20px;
+}
+
+.margin-r{
+  margin-right: 20px;
+}
+.bg-black-content{
+  background-color: black;
+  height: 200px;
+}
+
+.padding-lr{
+  padding:0px 20px;
+}
+.margin-t{
+  margin-top: 70px;
+}
